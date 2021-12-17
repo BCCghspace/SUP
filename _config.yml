@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Inspector"
+title: "sup today"
 email:
-description: "Geospatial Data Science in Python"
+description: "A platform comparing hot topics across multiple mainstream and social media"
 twitter_username:
-github_username:
+github_username: 
 minimal_mistakes_skin: default
 search: true
 
@@ -55,9 +55,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "Nick Hand"
+  name: "Bingchu Chen, Amy Liu, Hannah Bonestroo"
   avatar:
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "Final Project for MUSA550"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
