@@ -1,16 +1,13 @@
 ---
-title: "Hannah"
-date: 2019-04-13
+title: "News"
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
 altair-loader:
   altair-chart-1: "charts/news1.json"
 toc: true
 toc_sticky: true
 ---
-
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+## Print Mainstream News
+In order to explore print mainstream news sources' recent coverage of abortion, we used data from [News API](https://newsapi.org/). We pulled 
 
 ## Altair Example
 
@@ -30,4 +27,3 @@ alt.renderers.enable('notebook')
 - See the [raw source code](https://raw.githubusercontent.com/MUSA-550-Fall-2021/github-pages-starter/main/_posts/2021-11-29-measles-charts.md) of this post for details on how these charts were embedded.
 - See the [lecture 13A slides](https://github.com/MUSA-550-Fall-2021/week-13/blob/main/lecture-13A.ipynb) for the code that produced these plots.
 
-**Important: When embedding charts, you will likely need to adjust the width/height of the charts before embedding them in the page so they fit nicely when embedded.**
