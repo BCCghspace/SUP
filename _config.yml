@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "sup today"
+title: "Media & Women Abortion Rights"
 email:
 description: "A platform comparing hot topics across multiple mainstream and social media"
 twitter_username:
