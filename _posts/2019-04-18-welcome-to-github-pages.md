@@ -1,31 +1,7 @@
 ---
-title: "Welcome to GitHub Pages!"
-date: 2019-04-18
-categories:
-  - blog
-tags:
-  - Github Page
-  - update
+title: "Introduction"
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and commit your changes to to the repository. GitHub will automatically rebuild your site. Wait a few minutes and then refresh the site link to see the new changes. There are two main ways to make changes to your site:
+In May 2021, Texas Governor Greg Abbott (R) signed a state law that essentially bans all abortions after six weeks of pregnancy. This law is in violation of the court case ruling of *Planned Parenthood v. Casey (1992)*, which protects the right of women to receive a safe abortion. After the passing of the law, the Supreme Court refused an emergency request to block it. The next day, the Supreme Court filed a formal order allowing the law to take effect. This decision was an important signal that the court is likely to overturn *Roe v. Wade* with their ruling on *Dobbs v. Jackson Women’s Health Organization* set to be heard next year. This decision would affect women across the country, with as many as twenty-one states poised to ban or restrict abortion if *Roe v. Wade* was to be overturned.
 
-- Edit files within your in the browser at GitHub.com
-- Clone down your repository and make updates locally, then push them to your GitHub repository.
-
-**To add new posts:** Add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-```python
-def print_message(message):
-  print(message)
-
-print_message("Welcome to GitHub Pages")
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll.
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+With these recent events, abortion has now, more than ever, become a topic of widespread national debate. This project sought to explore the differences in how this contentious topic is talked about and reported between mainstream news sources and social media. Do different mainstream media and print media hold different tones or show distinct air time correlated with political belief? How do users of Twitter and Reddit talk about abortion as compared with the mainstream media?  
