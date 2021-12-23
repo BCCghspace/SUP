@@ -4,8 +4,6 @@ A template for including data visualizations in a Jekyll-powered blog with Githu
 
 [Website](https://bccghspace.github.io/SUP/)  
 
-[DEMO](https://musa-550-fall-2021.github.io/github-pages-starter/)
-
 ## Steps
 
 - Click on the "Use this template" button to create a new repository.
